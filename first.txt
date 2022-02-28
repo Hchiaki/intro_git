@@ -1,3 +1,6 @@
 練習です。
 
 追記しました。
+
+git add
+git commit
